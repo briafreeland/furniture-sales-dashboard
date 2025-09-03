@@ -1,0 +1,16 @@
+segment,discount_bin,sales
+Consumer,0%,128653.29
+Consumer,0-10%,28916.037
+Consumer,10-25%,124201.49
+Consumer,25-50%,104115.294
+Consumer,50%+,5163.201
+Corporate,0%,84682.92
+Corporate,0-10%,10803.069
+Corporate,10-25%,78337.5945
+Corporate,25-50%,52673.7253
+Corporate,50%+,2522.477
+Home Office,0%,42689.06
+Home Office,0-10%,6915.1410000000005
+Home Office,10-25%,41650.453
+Home Office,25-50%,29257.6395
+Home Office,50%+,1418.404
